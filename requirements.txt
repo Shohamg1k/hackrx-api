@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+PyMuPDF
+nltk
+torch
+requests
